@@ -1,0 +1,13 @@
+J1. Pieeja pirms koda
+Tev iedod žurnālfailu ar 1200 rindām un jautā, kurā diennakts stundā kļūdu ir visvairāk.
+Apraksti savu rīcību soli pa solim. Kodu rakstīt nevajag.
+
+Atbilde:
+
+J2. Objekti, nevis teksts
+
+PowerShell pa konveijeru nodod objektus, Bash nodod tekstu. Tev jāatlasa procesi, kas
+lieto vairāk par 200 MB atmiņas. Nosauc vienu praktisku ieguvumu, ko šajā uzdevumā
+dod objekti.
+
+Atbilde: Powershella ir precizak un vieglak to uzzinat jo tu uzzreiz precizak vari uzrakstit komanda ko tu gribi bez liekam lietam koda.
