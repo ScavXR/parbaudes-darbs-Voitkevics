@@ -14,5 +14,6 @@ PowerShell pa konveijeru nodod objektus, Bash nodod tekstu. Tev jāatlasa proces
 lieto vairāk par 200 MB atmiņas. Nosauc vienu praktisku ieguvumu, ko šajā uzdevumā
 dod objekti.
 
-Atbilde: Powershella ir precizak un vieglak uzzinat to atmiņas pateriņu jo tas ir skaitlis. Tu uzzreiz precizak vari uzrakstit kodu ko tu gribi bez liekam lietam koda.
+Atbilde: Objektu priekšrociba ka tas ir skaitli;
+Powershella ir precizak un vieglak uzzinat to atmiņas pateriņu jo tas ir skaitlis. Tu uzzreiz precizak vari uzrakstit kodu ko tu gribi bez liekam lietam koda.
 Jo Basha tev izvada lielu tekstu kur tu jau pēc tam precize ko tev vajag, bet powershella tu uzreiz to vari uzrakstit, tieši ko tev vajag un tas būs cipari;
