@@ -3,6 +3,10 @@ Tev iedod žurnālfailu ar 1200 rindām un jautā, kurā diennakts stundā kļū
 Apraksti savu rīcību soli pa solim. Kodu rakstīt nevajag.
 
 Atbilde:
+1. Vajag apskatit failu lai būtu sapratne par to kas kūr atrodas
+2. Tad es paņemšu laiku no katras rindas kūr ir kļuda
+3.Tad var saskaitīt  cik bija kļudas katru stndu
+4.Tad beigas es varu apskatities kūra stunda bija vissvairāk kļudu
 
 J2. Objekti, nevis teksts
 
