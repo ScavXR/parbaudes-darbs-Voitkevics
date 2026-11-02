@@ -11,8 +11,8 @@
 import sys
 
 if len(sys.argv) < 2:
-    print("Pamācība: Jāpadod līmenis!")
-    print("Piemērs: python skripts.py ERROR")
+    print("Uzraksti līmeni!")
+    print("Raksti python "sava faila nosaukumu" ERROR")
 else:
     limenis = sys.argv[1]
     atlasitas_rindas = []
