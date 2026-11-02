@@ -4,9 +4,9 @@ Apraksti savu rīcību soli pa solim. Kodu rakstīt nevajag.
 
 Atbilde:
 1. Vajag apskatit failu lai būtu sapratne par to kas kūr atrodas
-2. Tad es paņemšu laiku no katras rindas kūr ir kļuda
-3.Tad var saskaitīt  cik bija kļudas katru stndu
-4.Tad beigas es varu apskatities kūra stunda bija vissvairāk kļudu
+2. Es izietu cauri visām 1200 rindām un atstātu tikai tās kurās ir kļūda.
+3. No šīm atstātajām kļūdu rindam es izgrieztu visu lieko tekstu un paņemtu tikai pašu stundu.
+3. Tad es saskaitītu, kura stunda šajā atstātajā sarakstā atkārtojas visbiežāk.
 
 J2. Objekti, nevis teksts
 
@@ -14,6 +14,5 @@ PowerShell pa konveijeru nodod objektus, Bash nodod tekstu. Tev jāatlasa proces
 lieto vairāk par 200 MB atmiņas. Nosauc vienu praktisku ieguvumu, ko šajā uzdevumā
 dod objekti.
 
-Atbilde: Objektu priekšrociba ka tas ir skaitli;
-Powershella ir precizak un vieglak uzzinat to atmiņas pateriņu jo tas ir skaitlis. Tu uzzreiz precizak vari uzrakstit kodu ko tu gribi bez liekam lietam koda.
-Jo Basha tev izvada lielu tekstu kur tu jau pēc tam precize ko tev vajag, bet powershella tu uzreiz to vari uzrakstit, tieši ko tev vajag un tas būs cipari;
+Atbilde: Bash visu informāciju atdod kā vienu garu parastu tekstu. PowerShell atdod objektus, kur visa informācija jau ir smuki sadalīta pa konkrētām daļām, piemeram atsevišķi procesa nosaukums, atsevišķi atmiņa.
+Nosauc vienu praktisku ieguvumu, ko šajā uzdevumā dod objekti - PowerShell gadījumā atmiņa jau ir gatavs skaitlis. Es varu uzreiz uzrakstīt vienkāršu komandu, lai meklē to kas lielāks par 200 MB. Bash variantā man vajadzētu čakarēties un rakstīt sarežģītu - lielu kodu, lai no garā teksta vispār dabūt ārā to atmiņas skaitli.
