@@ -8,9 +8,6 @@
 # ----------------------------------------------------------------------                                                                                                Mainīgo, kurā glabā līmeni, nosauc ar vārdu meklejamais.
 
 
-
-
-
 import sys
 
 if len(sys.argv) < 2:
