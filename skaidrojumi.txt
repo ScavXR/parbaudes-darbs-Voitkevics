@@ -15,4 +15,4 @@ lieto vairāk par 200 MB atmiņas. Nosauc vienu praktisku ieguvumu, ko šajā uz
 dod objekti.
 
 Atbilde: Bash visu informāciju atdod kā vienu garu parastu tekstu. PowerShell atdod objektus, kur visa informācija jau ir smuki sadalīta pa konkrētām daļām, piemeram atsevišķi procesa nosaukums, atsevišķi atmiņa.
-Nosauc vienu praktisku ieguvumu, ko šajā uzdevumā dod objekti - PowerShell gadījumā atmiņa jau ir gatavs skaitlis. Es varu uzreiz uzrakstīt vienkāršu komandu, lai meklē to kas lielāks par 200 MB. Bash variantā man vajadzētu čakarēties un rakstīt sarežģītu - lielu kodu, lai no garā teksta vispār dabūt ārā to atmiņas skaitli.
+Nosauc vienu praktisku ieguvumu, ko šajā uzdevumā dod objekti , PowerShell gadījumā atmiņa jau ir gatavs skaitlis. Es varu uzreiz uzrakstīt vienkāršu komandu, lai meklē to kas lielāks par 200 MB. Bash variantā man vajadzētu čakarēties un rakstīt sarežģītu - lielu kodu, lai no garā teksta vispār dabūt ārā to atmiņas skaitli.
