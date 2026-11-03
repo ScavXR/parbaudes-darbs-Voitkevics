@@ -5,7 +5,7 @@
 # Saglabā ERROR rindu skaitu katram servisam CSV failā servisi.csv, ko var atvērt Excel ar latviešu burtiem. Aizpildi vietu, kur stāv TODO.
 #
 # Aizpildi vietu, kur stāv TODO. Tad palaid.
-# ----------------------------------------------------------------------                                                                                               
+# ---------------------------------------------------------------------                                                                                            
 
 import csv
 
