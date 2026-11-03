@@ -8,7 +8,7 @@ Atbilde:
 3. No šīm atstātajām kļūdu rindam es izgrieztu visu lieko tekstu un paņemtu tikai pašu stundu.
 3. Tad es saskaitītu, kura stunda šajā atstātajā sarakstā atkārtojas visbiežāk.
 
-J2. Objekti, nevis teksts
+J2. Objekti, nevis tekst
 
 PowerShell pa konveijeru nodod objektus, Bash nodod tekstu. Tev jāatlasa procesi, kas
 lieto vairāk par 200 MB atmiņas. Nosauc vienu praktisku ieguvumu, ko šajā uzdevumā
