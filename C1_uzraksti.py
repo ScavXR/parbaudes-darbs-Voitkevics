@@ -12,7 +12,7 @@ import sys
 
 if len(sys.argv) < 2:
     print("Uzraksti līmeni!")
-    print("Raksti python "sava faila nosaukumu" ERROR")
+    print("Raksti python sava faila nosaukumu  ERROR")
 else:
     limenis = sys.argv[1]
     atlasitas_rindas = []
