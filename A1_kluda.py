@@ -5,7 +5,7 @@
 # Jāsaskaita, cik žurnālā ir WARNING rindu. Izvadās nulle, lai gan tādas rindas failā ir. Atrodi un salabo kļūdu.
 #
 # Atrodi un salabo. Tad palaid.
-# ----------------------------------------------------------------------                                                                                                Rezultātu izvadi ar tekstu "Atrasts:" pirms skaitļa.
+# ----------------------------------------------------------------------                                                                                                
 
 skaits = 0
 
